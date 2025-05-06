@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 06.05.2025
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: HARINE S
+### Register Number: 212224230081
+
+![Screenshot 2025-05-06 150826](https://github.com/user-attachments/assets/29ec9244-b431-4e48-a6e8-2ff5fdd9ae18)
+
+
+![Screenshot 2025-05-06 150932](https://github.com/user-attachments/assets/fb1a09f1-9807-46d4-a44d-6d515e1962f6)
+
+
+![Screenshot 2025-05-06 150956](https://github.com/user-attachments/assets/999b597a-6129-465f-9a59-2a70efad2f68)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
